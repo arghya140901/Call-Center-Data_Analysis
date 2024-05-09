@@ -16,3 +16,6 @@ KPI Includes (my project):
 👍➡️Agents performance quadrant.
 
 I'm excited about the impact this will have on enhancing customer experiences and streamlining operations. 🌟
+
+
+![Call Center Analysis](https://github.com/arghya140901/Call-Center-Data_Analysis/assets/123351179/b866214b-5136-46e1-9e6b-4ed49e74f620)
